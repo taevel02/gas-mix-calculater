@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: "20"
 
-      - run: npm ci
+      - run: npm run install
       - run: npm run build
 
       - name: Configure GitHub Pages
