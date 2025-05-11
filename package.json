@@ -1,9 +1,9 @@
 {
-  "name": "gas-mix-calculater",
+  "name": "gas-mix-calculator",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://taevel02.github.io/gas-mix-calculater/",
+  "homepage": "https://taevel02.github.io/gas-mix-calculator/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
